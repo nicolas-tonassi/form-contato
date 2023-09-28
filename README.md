@@ -18,7 +18,7 @@
 ![Formulário](img/img.png)
 
 ## Funcionalidades 🧠
-- Aprender a construir uma tabela de fotrmulário de contatos
+- Aprender a construir uma tabela de fotrmulário de contatos em HTML5
 
 ## Tecnologias Utilizadas 🖥️   
 - Visual Studio Code; 

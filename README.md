@@ -15,7 +15,7 @@
 
 ## Introdução ✉️
 - Preenchimento de dados em um formulário de contatos
-- <img src="image.png">
+![Formulário](img/img.png)
 
 ## Funcionalidades 🧠
 - Aprender a construir uma tabela de fotrmulário de contatos
